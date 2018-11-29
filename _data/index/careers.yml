@@ -1,56 +1,44 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: MasterCard
+    detail: Experis
     i18n: company_a
   desc:
-    detail: I was on a team developing a biometric authentication platform to be used in banks around the world. I led the effort to build a feature for developers working on the project to easily test different authentication types. My responsibilities included the initial research, planning and managing of the project, designing and implementing the feature and writing out the specs. I used, Java, Groovy and Grails in the development phase. 
+    detail: I am currently working for Experis ...
     i18n: company_a_desc
   date:
-    detail: Apr. 2018 - Sept. 2018
+    detail: May 2015
     i18n: company_a_date
   job:
-    detail: Software Engineer Intern
+    detail: Sr. Developer
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: OPTUM
+    detail: Barclays
     i18n: company_b
   desc:
-    detail: Part of the machine learning and AI team developing a health prediction model used in U.S hospitals. I helped build and enhance highly available, scalable, real-time and secure systems used by various hospitals. My responsibilities included implementing three major features, working closely with the agile development team to develop, test and maintain the system, while adhering to high quality development standards and delivering solutions on time. I wrote about my experience here.
+    detail: Worked in the Global Finance Technology solutions Team in Barclays.
     i18n: company_b_desc
   date:
-    detail: Jun. 2017 - Aug. 2017
+    detail: May 2011
     i18n: company_b_date
   job:
-    detail: Software Engineer Intern
+    detail: Lead Developer
     i18n: company_b_job
   icon: fa-plus-square
 
+  
 - name:
-    detail: UniTuition
+    detail: Newgen
     i18n: company_c
   desc:
-    detail: Provided academic assistance to students organising one-to-one and group sessions, delivery programming concepts ranging from basic python and java to object oriented programming in Java.
+    detail: Started my journey from Newgen working for Services and product teams.
+    i18n: company_c_desc
   date:
-    detail: Dec. 2016 - May. 2018
+    detail: July 2007
     i18n: company_c_date
   job:
-    detail: Programming Tutor
+    detail: Sr. Software Engineer
     i18n: company_c_job
-  icon: fa-plus-square
-
-- name:
-    detail: Information System Services, DCU
-    i18n: company_d
-  desc:
-    detail: Part of a ten person team offering IT support and advice to over 12,000 staff and students in DCU. Alongside working as a network engineer in the areas of rooting, switching, performance tuning and security with various vendors such as Cisco and Juniper Networks.
-    i18n: company_d_desc
-  date:
-    detail: Jun. 2017 - Aug. 2017
-    i18n: company_d_date
-  job:
-    detail: Service Desk Assistant/Network Engineer
-    i18n: company_d_job
   icon: fa-plus-square
