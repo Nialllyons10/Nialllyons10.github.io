@@ -41,7 +41,7 @@
     i18n: company_c_job
   icon: fa-plus-square
 
-  - name:
+- name:
     detail: Information System Services, DCU
     i18n: company_d
   desc:
