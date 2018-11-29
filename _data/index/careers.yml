@@ -53,4 +53,8 @@
   job:
     detail: Service Desk Assistant/Network Engineer
     i18n: company_d_job
+<<<<<<< HEAD
   icon: fa-plus-square
+=======
+  icon: fa-plus-square
+>>>>>>> 88e2cca766c5123d23f63601c6fcb1626528c586
