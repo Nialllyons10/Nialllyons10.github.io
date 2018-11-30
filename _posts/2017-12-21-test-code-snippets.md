@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Code Snippet Test"
-date:   2017-12-21
+date:   2019-10-21
 desc: "Quick test on writing code snippets in a blog post"
 keywords: "Niall,Jekyll,gh-pages,website,blog,easy"
 categories: [HTML]
