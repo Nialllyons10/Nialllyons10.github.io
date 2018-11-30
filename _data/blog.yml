@@ -6,21 +6,12 @@
 - name: Python
   href: /python/
 
-- name: Linux
-  href: /linux/
+- name: Machine Learning
+  href: /machine-learning/
 
-- name: HTML
-  href: /html/
-
-- name: Database
-  href: /database/
-
-- name: Mac
-  href: /mac/
+- name: Photgrapy
+  href: /photograpy/
 
 - name: Life
   href: /life/
 
-# Don't display donation page: change donation to off at file '_config.yml'
-- name: Donate
-  href: /donate/
