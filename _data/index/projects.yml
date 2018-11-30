@@ -1,22 +1,21 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+- name: Irish Referendum Prediction
+  i18n: Irish Referendum Prediction
+  gh_user: nialllyons10
+  repo: Eighth-Amendment-Referendum-Sentiment-Analysis
+  img: /static/assets/img/landing/amendment.png
+  desc: Developed a system to scrape tweets related to the eighth amendment referendum in Ireland, and run a sentiment analysis model on them to predict the overall outcome. The main technologies I used were Python, and NLTK. I achieved a first class honours.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: Early Dementia Detection
+  i18n: Early Dementia Detection
+  img: /static/assets/img/landing/optum.jpg
+  desc: A colleague of mine and I developed and presented an idea that helps doctors track early signs of dementia. Our idea was a chrome extension which tracked a users keyboard use over a number of years, storing data and finding specific rhythms and trends. We placed in the top 10 worldwide. The extension was developed using python and pytorch.
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+
+- name: MDsmrt
+  i18n: MDsmrt
+  img: /static/assets/img/landing/MDsmrt-Logo.png
+  desc: For my fourth year project I am currently developing a decentralised application for doctors to store MRI scan images on a blockchain using a peer-to-peer network, while having the ability to analyse these images through a convolutional neural network. I am developing the application using react, python and solidity. 
+
